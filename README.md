@@ -13,3 +13,5 @@ Copyright Docker Inc Education Team 2014 <education@docker.com>
 
 Trivial Change
 Trivial Change 2
+
+Successful Test 1
